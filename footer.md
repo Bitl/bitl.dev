@@ -1,0 +1,1 @@
+Powered by [Lichen-Markdown](https://codeberg.org/ukrudt.net/lichen-markdown), [YunoHost](https://yunohost.org/), and [NetroHost](https://netrocorp.net/services/netrohost).
